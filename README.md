@@ -1,10 +1,15 @@
 # Bootcamp Potência Tech iFood
 
+
+<img align="left" src="https://hermes.dio.me/tracks/9388e8d8-00d5-4007-a7c9-357324fe73fa.png" width="200">
+
 Esse diretório foi criado para armazenar os desafios de cógido do Bootcamp Potência Tech iFood: Programação do Zero da DIO.
 
 Nesse curso foram abordados conceitos de lógica de programação usando JavaScript, utilizando variáveis, operadores, laços de repetição, estruturas de decisões, funções e Classes e Objetos.
 
 Cada subpasta desse diretório é referente a desafios de códigos propostos no programa.
+
+[![Certificado Conclusão Bootcamp](https://img.shields.io/static/v1?label=CERTIFICADO&amp;message=POTENCIATECHIFOOD&amp;color=d1002a&amp;style=flat-square)](https://www.dio.me/certificate/3EA958D5/share)
 
 <hr>
 
